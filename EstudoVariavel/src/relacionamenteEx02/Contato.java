@@ -32,5 +32,7 @@ public class Contato {
 	public String imprimirInfo() {
 		return "Nome: " + this.nome + ", " + "Telefone: " + this.telefone + ", " + "Email: " + this.email + ".";
 	}
+	
+	
 
 }
